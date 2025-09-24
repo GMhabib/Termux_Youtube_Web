@@ -12,6 +12,5 @@ sleep 2
  git commit -m "jika sudah clone install pkg install nodejs"
  sleep 2
  clear
- echo "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"
  sleep 10
  git remote add origin https://github.com/GMhabib/Termux_Youtube_Web.git && git branch -M main && git push -u origin main
